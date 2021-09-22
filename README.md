@@ -5,6 +5,12 @@
     - Support Local Storage Only as of now
     - Not for web
     - You can easily add Custom Backend
+    
+# Author
+* Sree Harsha - aka [HarshaStrix][website]
+* My Portfolio Website - [(myfolio-strixblog)][website]
+
+[website]: https://myfolio-strixblog.web.app/
 
 # Security Layers
     1. Your password String is Encrypted itself.
@@ -21,31 +27,52 @@
     - Passwords are encrypted
     - App Level security
 
-# Todos
-    - add Delete
-    - add Edit
-    - add a text-auto-fill for correctly mapping icons to service
-
-
-# Screenshots
-
-![Text](screenshots/ss1.png)
-
-![Text](screenshots/ss2.png)
-
-![Text](screenshots/ss3.png)
-
-![Text](screenshots/ss4.png)
-
-![Text](screenshots/ss5.png)
-
-![Text](screenshots/ss6.png)
-
-![Text](screenshots/ss7.png)
-
-  
 # Data
     - type
     - nick
     - username/email
     - password
+
+# Screenshots
+
+### Local Auth via Fingerprint / PIN
+<p align="center">
+  <img src="screenshots/1.jpg" width="350">
+</p>
+
+### Local Auth via Fingerprint
+<p align="center">
+  <img src="screenshots/2.png" width="350">
+</p>
+
+### Your passwords screen
+<p align="center">
+  <img src="screenshots/3.jpg" width="350">
+</p>
+
+### Add button functionality
+<p align="center">
+  <img src="screenshots/4.jpg" width="350">
+</p>
+
+### Your added credentials 
+<p align="center">
+  <img src="screenshots/5.jpg" width="350">
+</p>
+
+### Edit & Delete option
+<p align="center">
+  <img src="screenshots/6.jpg" width="350">
+</p>
+
+### Password will be copied to your Clipboard
+<p align="center">
+  <img src="screenshots/7.jpg" width="350">
+</p>
+
+# Todos
+    - add Delete
+    - add Edit
+    - add a text-auto-fill for correctly mapping icons to service
+
+  
