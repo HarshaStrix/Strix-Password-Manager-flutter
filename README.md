@@ -1,4 +1,4 @@
-# Flutter Password Manager
+# Flutter - StrixPassword Manager
 
  A Password manager coded entirely in Flutter that used Three layers of security. It saves password in your Phone's local Storage, thus no issue of data Leak from a server. 
 
@@ -17,7 +17,7 @@
     2. The Entire Database is encrypted.
     3. Uses Your Phone's Local Bio (Fingerprint) auth.
         - Also it is single-time Allow only, 
-        which means if you press home or back, You will have to re-authenticate.
+          which means if you press home or back, You will have to re-authenticate.
 
 # Security 
     - need to re-authenticate every time app is launched
