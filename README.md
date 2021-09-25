@@ -35,7 +35,7 @@
 
 # Screenshots
 
-### Local Auth via Fingerprint / PIN
+### Local Auth via Fingerprint - open screen
 <p align="center">
   <img src="screenshots/1.jpg" width="350">
 </p>
