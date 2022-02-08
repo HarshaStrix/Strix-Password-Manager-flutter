@@ -6,11 +6,11 @@
     - Not for web
     - You can easily add Custom Backend
     
-# Author
+## Author
 * Sree Harsha - aka [HarshaStrix][website]
-* My Portfolio Website - [(myfolio-strixblog)][website]
+* My Portfolio Website - [(Sree Harsha Donthamsettig)][website]
 
-[website]: https://myfolio-strixblog.web.app/
+[website]: https://donthamsettisreeharsha.web.app/
 
 # Security Layers
     1. Your password String is Encrypted itself.
